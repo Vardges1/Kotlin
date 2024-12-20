@@ -40,7 +40,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Гаврилов Марк, ИКБО-27-22")
+                    Greeting("Тадевосян Вардгес, ИКБО-27-22")
                 }
             }
         }
